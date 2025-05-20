@@ -1,6 +1,6 @@
 # Intro
 - 👋 Hi, I’m Mdambi
-- 👀 I’m interested in Programming and Gaming
+- 👀 I’m interested in Networking
 - 🌱 I’m currently learning Java Script.
 - ⚡ Fun fact: I fell into programming to impress my classmates but ended up loving it and now I run on ☕ coffee.
 <br><br>
@@ -8,6 +8,7 @@
 ## Skills
 - Practising languages:  HTML, CSS, JS | React, Nodejs | PHP, Python.
 - Basic Understanding In Cloud Computing.
+- Associate level network Engineer. 
 <br><br>
 
 ## Contact
